@@ -1,0 +1,23 @@
+$color_main: #91CDFF;
+$color_secondary: #3A4856;
+$color_black: #071013;
+$color_white: white;
+$color_hover: #9EADBD;
+$pink: #F9B2D3;
+
+$lato:'Lato',
+sans-serif;
+
+$bold: 900;
+$bolder: 700;
+$regular: 400;
+$light: 300;
+
+$nav_width: 25%;
+$main_width: 100% - $nav_width;
+
+$breakpoints: ('sm': (min-width: 576px),
+'md': (min-width: 768px),
+'lg': (min-width: 992px),
+'xl': (min-width: 1200px),
+);
