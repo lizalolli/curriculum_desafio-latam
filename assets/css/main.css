@@ -107,6 +107,15 @@ nav a:hover {
   max-height: 100%;
 }
 
+@media only screen and (max-width: 992px) {
+  nav img {
+    margin: 1.5rem 3rem;
+  }
+
+  nav input {
+    margin: 1.5 3rem;
+  }
+}
 @media (min-width: 768px) {
   .grid {
     display: grid;
